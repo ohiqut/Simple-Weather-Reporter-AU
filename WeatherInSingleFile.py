@@ -8,7 +8,7 @@
 #  in QUT's Manual of Policies and Procedures, Section C/5.3
 #  "Academic Integrity" and Section E/2.1 "Student Code of Conduct".
 #
-#    Student no: n9023348
+#    Student id: n9023348
 #    Student name: OHI AHMED
 #
 #  NB: Files submitted without a completed copy of this statement
@@ -18,32 +18,19 @@
 
 
 
-#-----Task Description-----------------------------------------------#
+#-----Description-----------------------------------------------#
 #
-#  LIVE NEWS FEED
+#  WEATHER REPORTER AU
 #
 #  The World Wide Web provides us with such an abundance of
 #  information that it's often difficult to find just the data you
-#  want.  In this task you will develop a simple app that fetches
-#  web pages and summarises just their essential facts.  Your
-#  app will have an intuitive Graphical User Interface that makes
-#  it easy to use.  See the instruction sheet accompanying
-#  this file for full details.
+#  want. Here a simple app is developed that fetches web page(s) 
+#  and summarises just their essential facts regarding weather. 
+#  The app has an intuitive Graphical User Interface that makes
+#  it easy to use.  
 #
 #--------------------------------------------------------------------#
 
-
-
-#-----Student's Solution---------------------------------------------#
-#
-#  Complete the task by filling in the template below.
-#
-
-#----------
-# Import the various functions needed to complete this program.
-# NB: You may NOT import or use code from any other module
-# in your solution.  Also, you do NOT need to use all these
-# functions in your solution.
 
 # Import the function for fetching web pages
 from urllib import urlopen 
